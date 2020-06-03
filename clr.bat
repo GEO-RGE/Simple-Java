@@ -1,0 +1,1 @@
+del lex.yy.c simple_java.exe y.tab.c y.tab.h
